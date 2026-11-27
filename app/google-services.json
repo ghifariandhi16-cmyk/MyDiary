@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "784256743646",
+    "firebase_url": "https://uas-project-pm-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uas-project-pm",
+    "storage_bucket": "uas-project-pm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784256743646:android:c3fa3c16ed71a621d22a4f",
+        "android_client_info": {
+          "package_name": "com.example.my_diary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL8eU_hwv7kFNT3POc3MWgOqUsIwg6ChU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
